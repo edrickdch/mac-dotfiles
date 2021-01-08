@@ -1,4 +1,6 @@
 git
+go
+goenv
 openjdk
 pyenv
 tmux

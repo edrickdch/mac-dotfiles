@@ -7,3 +7,7 @@ set number
 set hlsearch
 set ruler
 highlight Comment ctermfg=green
+
+set timeout ttimeout
+set timeoutlen=500
+set ttimeoutlen=20
